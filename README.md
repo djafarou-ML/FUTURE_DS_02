@@ -1,15 +1,4 @@
 # Analyse du churn des clients – Telco
-
-## Contexte du projet
-
-Dans le secteur des télécommunications, la fidélisation des clients est un enjeu majeur pour les entreprises. La perte de clients, appelée **churn**, peut avoir un impact important sur les revenus et la croissance d’une entreprise.
-
-Comprendre les raisons pour lesquelles les clients quittent un service permet aux entreprises de mettre en place des stratégies efficaces pour améliorer la satisfaction des clients et réduire les départs.
-
-Ce projet vise donc à analyser les comportements des clients afin d’identifier les facteurs associés au churn et de proposer des recommandations pour améliorer la fidélisation.
-
----
-
 # Objectif de l’analyse
 
 L’objectif principal de cette analyse est de comprendre **pourquoi certains clients quittent la plateforme** et d’identifier les variables les plus associées au churn.
